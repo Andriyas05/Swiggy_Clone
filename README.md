@@ -93,6 +93,3 @@ download the .zip file. Extract the contents of the zip file, then open your ter
    https://github.com/visgl/react-map-Gl
 
 
-## Creator 😇
-
-- 👤 [Biswaranjan](https://www.github.com/icyflame21)
