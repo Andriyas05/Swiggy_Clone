@@ -2,9 +2,6 @@
 
 Swiggy is an Indian online food ordering and delivery platform. Founded in July 2014, Swiggy is based in Bangalore, and operates in 500 Indian cities, as of September 2021.
 
-**Solo construct week Project executed in 7 days.**
-
-![Logo](https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Swiggy_logo.svg/1200px-Swiggy_logo.svg.png)
 
 ## Demo 🎥
 
@@ -95,18 +92,6 @@ download the .zip file. Extract the contents of the zip file, then open your ter
 - To have interactive and customised maps along with searching ability  
    https://github.com/visgl/react-map-Gl
 
-# Security Policy 🛡️
-
-## Supported Versions
-
-Versions of this project which are currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
 
 ## Creator 😇
 
